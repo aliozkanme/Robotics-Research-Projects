@@ -1,6 +1,6 @@
 <p align="center">
   <img height="80" src="logo_ros.png" alt="ROS Logo" style="margin-right: 20px;">
-  <img height="160" src="logo_gazebo.png" alt="Gazebo Logo" style="margin-right: 15px;">
+  <img height="160" src="logo_gazebo.png" alt="Gazebo Logo" style="margin-right: 20px;">
   <img height="80" src="logo_python.png" alt="Python Logo">
 </p>
 
