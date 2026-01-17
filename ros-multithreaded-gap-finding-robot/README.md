@@ -1,4 +1,4 @@
-> 🇹🇷 **[Türkçe Versiyon İçin Tıklayınız / Click for Turkish Version](README_TR.md)**
+> 🇹🇷 **[Türkçe Versiyon İçin Tıklayınız / Click for Turkish Version](README_tr.md)**
 
 # ROS Based Multithreaded Gap Finding Robot 🤖
 
