@@ -500,7 +500,7 @@ Bu proje **Ubuntu 20.04 LTS** işletim sistemi üzerinde **ROS Noetic** sürüm�
 ### 2. Simülasyonu Başlatma ve Otonom Sürüşü Çalıştırma
 Projenin çalışma videosu ve kullanım detayları burada gösterilmiştir:
 
-[![Proje Videosu](https://img.youtube.com/vi/VIDEO_ID_BURAYA_YAZILACAK/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_BURAYA_YAZILACAK)
+[![Proje Videosu](https://img.youtube.com/vi/3xOZsy8zRuY/0.jpg)](https://www.youtube.com/watch?v=3xOZsy8zRuY)
 
 *(Not: Videoyu izlemek için görsele tıklayınız.)*
 

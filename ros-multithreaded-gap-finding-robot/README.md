@@ -500,7 +500,7 @@ This project was developed on **Ubuntu 20.04 LTS** operating system with **ROS N
 ### 2. Launching and Running Simulation
 The project's operation video and usage details are shown here
 
-[![Project Video](https://img.youtube.com/vi/VIDEO_ID_BURAYA_YAZILACAK/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_BURAYA_YAZILACAK)
+[![Project Video](https://img.youtube.com/vi/3xOZsy8zRuY/0.jpg)](https://www.youtube.com/watch?v=3xOZsy8zRuY)
 
 *(Note: Click on the image to watch the video.)*
 
