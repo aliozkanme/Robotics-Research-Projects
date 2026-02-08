@@ -36,13 +36,15 @@ This project is licensed under a **Creative Commons Attribution-NonCommercial-Sh
 </p>
 
 ### 🚫 Terms of Use
-* **Non-Commercial:** You may not use this material (Source Code, Images, Documentation) for commercial purposes.
+* **Non-Commercial:** You may not use this material (Source Code, Designs, Models, Simulations, Documentation) for commercial purposes.
 * **Attribution:** You must give appropriate credit to the author (**Ali Özkan**).
 * **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 <br />
 To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a>.
 
-
 ## 🤝 Credits
 All credits, references, and used standard components are listed within the individual project descriptions respectively.
+<p align="center">
+<img src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey?style=flat-square&logo=creative-commons" alt="Creative Commons">
+</p>
