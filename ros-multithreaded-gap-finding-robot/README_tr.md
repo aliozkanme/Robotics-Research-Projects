@@ -578,4 +578,3 @@ Bu projenin geliştirilmesinde aşağıdaki akademik kaynaklardan ve literatür 
 * **Fox, D., Burgard, W., & Thrun, S. (1997).** "The dynamic window approach to collision avoidance". *IEEE Robotics & Automation Magazine*, 4(1), 23-33.
 * **Quigley, M., Gerkey, B., & Smart, W. D. (2015).** *Programming Robots with ROS: A Practical Introduction to the Robot Operating System*. O'Reilly Media.
 * **Siegwart, R., & Nourbakhsh, I. R. (2011).** *Introduction to Autonomous Mobile Robots*. MIT Press.
-* **Koenig, N., & Howard, A. (2004).** "Design and use environments for Gazebo, an open-source 3D robot simulator". *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
